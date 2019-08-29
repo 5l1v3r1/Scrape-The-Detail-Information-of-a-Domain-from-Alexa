@@ -1,4 +1,4 @@
-# Alexa Domain Detail Scrape
+# Scrape The Details of Domain from Alexa
 Web scrape the domains from www.alexa.com with Python BeautifulSoup
 
 Scrape Point:

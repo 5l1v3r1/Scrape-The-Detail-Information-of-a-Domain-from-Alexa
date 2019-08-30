@@ -1,5 +1,5 @@
 # Scrape The Details of Domain from Alexa
-Web scrape the domains from www.alexa.com with Python BeautifulSoup
+This Python script that written for scrape some detail information of a domain from www.alexa.com with BeautifulSoup. After getting the 3 type information, they are saved the XLSX file in different sheets.
 
 Scrape Point:
 - Ranks

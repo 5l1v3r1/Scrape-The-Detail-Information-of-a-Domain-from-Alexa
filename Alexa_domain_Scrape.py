@@ -1,5 +1,5 @@
 
-#Alexa-Details-of-Domain-Scrape
+#Scrape-The-Detail-Information-of-a-Domain-from-Alexa
 #by github.com/msklc
 from bs4 import BeautifulSoup
 from pandas import ExcelWriter
